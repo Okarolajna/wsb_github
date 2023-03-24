@@ -5,7 +5,7 @@ int main() {
     
     int x;
 
-    cout << "Test sprawdzający, czy liczba jest parzysta, czy nieparzysta. Wprowadź swoją liczbę: " << endl;
+    cout << "Test sprawdzający, czy liczba jest parzysta czy nieparzysta. Wprowadź swoją liczbę: " << endl;
     cin >> x;
     
 
